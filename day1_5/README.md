@@ -1,5 +1,5 @@
 # Azure datastore and datasets:
-As we just discussed, Azure Machine Learning has two data management tools that we need to consider: Datastores and datasets. At first the distinction between the two may not be entirely clear, so let's have a closer look at what each one does and how they are related.
+ Azure Machine Learning has two data management tools that we need to consider: Datastores and datasets. At first the distinction between the two may not be entirely clear, so let's have a closer look at what each one does and how they are related.
 # Datastores:
 offer a layer of abstraction over the supported Azure storage services. They store all the information needed to connect to a particular storage service. Datastores provide an access mechanism that is independent of the computer resource that is used to drive a machine learning process.
 
